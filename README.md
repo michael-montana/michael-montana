@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Michael, also known as @michael-montana
+- 👀 I’m passionate about **cloud technology**, specifically **Microsoft Azure**, and I have a deep love for **PowerShell scripting** and automation.
+- 🌱 I’m currently improving my **PowerShell scripting skills** for Azure automation and monitoring.
+- 💼 I work as a **Cloud Consultant**, helping companies with **digital transformation** by leveraging **Microsoft Azure** services.
+- 💻 My recent projects include:
+  - A **PowerShell project** for requesting Access Tokens via Microsoft Graph API for EntraID, Azure, and Partner Center.
+  - **EagleEye-PowerShell-Insights**, a PowerShell monitoring tool integrated with Azure Application Insights to track and visualize script performance.
+- 💞️ I’m looking to collaborate on **Azure automation projects** and **open-source initiatives** related to cloud computing.
+- 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/m-montana) or [GitHub Issues](https://github.com/michael-montana)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a former triathlete and still enjoy endurance sports.
