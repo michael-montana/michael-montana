@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Michael, also known as @michael-montana
 - 👀 I’m passionate about **cloud technology**, specifically **Microsoft Azure**, and I have a deep love for **PowerShell scripting** and automation.
-- 🌱 I’m currently improving my **PowerShell scripting skills** for Azure automation and monitoring.
+- 🌱 I’m currently improving my **Python scripting skills** for Azure automation.
 - 💼 I work as a **Cloud Consultant**, helping companies with **digital transformation** by leveraging **Microsoft Azure** services.
 - 💻 My recent projects include:
-  - A **PowerShell project** for requesting Access Tokens via Microsoft Graph API for EntraID, Azure, and Partner Center.
-  - **EagleEye-PowerShell-Insights**, a PowerShell monitoring tool integrated with Azure Application Insights to track and visualize script performance.
+  - **OAuth-Tokencopter3000**: A PowerShell-based tool that simplifies issuing Microsoft Identity Tokens. It makes REST API requests to the Microsoft Identity Provider and delivers tokens for various resources—a token vending machine for easy token issuing.
+  - **OrbitalVision**: A Python-powered tool utilizing the Microsoft Planetary Computer API to download and visualize high-resolution satellite imagery. It supports Sentinel-2 and Landsat collections for exploring Earth from above.
+  - **EagleEye-PowerShell-Insights**: A PowerShell monitoring tool that integrates with Azure Application Insights. It provides real-time tracking and visualization of script performance with neural network-style mapping for better debugging and analysis.
+  - **AzureOpenAI-SpaceGen-Py**: A Python and Blender 3D modeling project that integrates Azure OpenAI to generate Python scripts for space-themed 3D models.
 - 💞️ I’m looking to collaborate on **Azure automation projects** and **open-source initiatives** related to cloud computing.
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/m-montana) or [GitHub Issues](https://github.com/michael-montana)
 - 😄 Pronouns: He/Him
