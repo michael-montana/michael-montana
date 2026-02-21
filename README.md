@@ -11,3 +11,16 @@
 - 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/m-montana) or [GitHub Issues](https://github.com/michael-montana)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a former triathlete and still enjoy endurance sports.
+
+## 🏅 Microsoft Applied Skills
+
+![Microsoft Applied Skills](https://learn.microsoft.com/en-us/media/learn/credential/badges/applied-skill.svg)
+
+![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft_Applied_Skills-14_Earned-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+| Category | Skills |
+|----------|--------|
+| ☁️ Azure & Cloud | [Container Apps](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/15125AEB3D16A053?sharingId=F0D1943B5C490F4C) · [Azure Monitor](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/4CB13FF6B6457548?sharingId=F0D1943B5C490F4C) · [Azure Management](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/85E88018FB5CE9C?sharingId=F0D1943B5C490F4C) · [Load Testing](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/C7D794935688E7FE?sharingId=F0D1943B5C490F4C) |
+| 🔐 Security | [Cloud Security](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/A5B218BD6A060873?sharingId=F0D1943B5C490F4C) · [Defender for Cloud](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/DDA9A98300164EDF?sharingId=F0D1943B5C490F4C) · [Secure Networking](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/8F060AE28C842693?sharingId=F0D1943B5C490F4C) · [Secure Storage](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/C0F7CE832BA346D?sharingId=F0D1943B5C490F4C) |
+| 🗄️ Data & DB | [PostgreSQL Migration](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/1777A67EFBB0C742?sharingId=F0D1943B5C490F4C) · [SQL Server → Azure SQL](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/FB323E017AC0F08B?sharingId=F0D1943B5C490F4C) · [Active Directory DS](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/F49502B488411620?sharingId=F0D1943B5C490F4C) |
+| 🤖 AI & Dev | [Azure OpenAI + Semantic Kernel](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/5B6404DDF52AC50?sharingId=F0D1943B5C490F4C) · [AI Document Intelligence](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/8B1664782BB97A60?sharingId=F0D1943B5C490F4C) · [NLP with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/DB627A931F14F20?sharingId=F0D1943B5C490F4C) |
