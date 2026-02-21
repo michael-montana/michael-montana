@@ -24,3 +24,11 @@
 | 🔐 Security | [Cloud Security](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/A5B218BD6A060873?sharingId=F0D1943B5C490F4C) · [Defender for Cloud](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/DDA9A98300164EDF?sharingId=F0D1943B5C490F4C) · [Secure Networking](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/8F060AE28C842693?sharingId=F0D1943B5C490F4C) · [Secure Storage](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/C0F7CE832BA346D?sharingId=F0D1943B5C490F4C) |
 | 🗄️ Data & DB | [PostgreSQL Migration](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/1777A67EFBB0C742?sharingId=F0D1943B5C490F4C) · [SQL Server → Azure SQL](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/FB323E017AC0F08B?sharingId=F0D1943B5C490F4C) · [Active Directory DS](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/F49502B488411620?sharingId=F0D1943B5C490F4C) |
 | 🤖 AI & Dev | [Azure OpenAI + Semantic Kernel](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/5B6404DDF52AC50?sharingId=F0D1943B5C490F4C) · [AI Document Intelligence](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/8B1664782BB97A60?sharingId=F0D1943B5C490F4C) · [NLP with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/DB627A931F14F20?sharingId=F0D1943B5C490F4C) |
+
+## 🔓 TryHackMe
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-2_Certificates-212C42?style=flat&logo=tryhackme&logoColor=white)
+
+| Category | Certificate |
+|----------|-------------|
+| 🛡️ Foundations | [Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YPXEUKOWBD.pdf) · [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BIMDHOLOQP.pdf) |
