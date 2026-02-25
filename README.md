@@ -40,6 +40,6 @@
 
 | Badge | Achievement |
 |-------|-------------|
-| 🥇 Gold | [Kusto Detective Gold Star!](https://www.credly.com/earner/earned/badge/e15bbbcf-74fd-428f-9d7c-edbd21c2843b) · Season 2 Gold Award |
-| 🏆 Complete | [Kusto Detective Agency – Complete](https://www.credly.com/earner/earned/badge/20e49480-341e-4d1e-b24f-2c1476670363) · The ultimate Kusto detective badge |
-| 🔐 Cyber Duty | [Call of the Cyber Duty – Case 10](https://www.credly.com/earner/earned/badge/09ee2a45-8b7b-4d06-83dc-492415dd8c33) · Final case solved |
+| 🥇 Gold | [Kusto Detective Gold Star!](https://www.credly.com/badges/e15bbbcf-74fd-428f-9d7c-edbd21c2843b) · Season 2 Gold Award |
+| 🏆 Complete | [Kusto Detective Agency – Complete](https://www.credly.com/badges/20e49480-341e-4d1e-b24f-2c1476670363) · The ultimate Kusto detective badge |
+| 🔐 Cyber Duty | [Call of the Cyber Duty – Case 10](https://www.credly.com/badges/09ee2a45-8b7b-4d06-83dc-492415dd8c33) · Final case solved |
