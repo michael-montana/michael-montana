@@ -18,7 +18,7 @@
 
 ![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft_Applied_Skills-14_Earned-0078D4?style=flat&logo=microsoft&logoColor=white)
 
-| Category | Skills |
+| Category | Certificate |
 |----------|--------|
 | ☁️ Azure & Cloud | [Container Apps](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/15125AEB3D16A053?sharingId=F0D1943B5C490F4C) · [Azure Monitor](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/4CB13FF6B6457548?sharingId=F0D1943B5C490F4C) · [Azure Management](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/85E88018FB5CE9C?sharingId=F0D1943B5C490F4C) · [Load Testing](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/C7D794935688E7FE?sharingId=F0D1943B5C490F4C) |
 | 🔐 Security | [Cloud Security](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/A5B218BD6A060873?sharingId=F0D1943B5C490F4C) · [Defender for Cloud](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/DDA9A98300164EDF?sharingId=F0D1943B5C490F4C) · [Secure Networking](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/8F060AE28C842693?sharingId=F0D1943B5C490F4C) · [Secure Storage](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/C0F7CE832BA346D?sharingId=F0D1943B5C490F4C) |
