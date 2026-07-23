@@ -27,9 +27,9 @@
 
 ## 🔓 TryHackMe
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-2_Certificates-212C42?style=flat&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-2_Certificates_of_completion-212C42?style=flat&logo=tryhackme&logoColor=white)
 
-| Category | Certificate |
+| Category | Certificate of completion |
 |----------|-------------|
 | 🛡️ Foundations | [Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YPXEUKOWBD.pdf) · [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BIMDHOLOQP.pdf) |
 
