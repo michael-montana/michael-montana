@@ -37,9 +37,9 @@
 
 ## 🥷 Microsoft Defender Ninja Program
 
-![Microsoft Defender Ninja](https://img.shields.io/badge/Microsoft_Defender-1%20Ninja%20Certificates-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Microsoft Defender Ninja](https://img.shields.io/badge/Microsoft_Defender-1%20Ninja%20Certificates%20of%20completion-0078D4?style=flat&logo=microsoft&logoColor=white)
 
-| Program | Certificate |
+| Program | Certificate of completion |
 |---------|-------------|
 | 🌩️ Microsoft Defender for Cloud | [Defender for Cloud Ninja Participation Certificate](https://github.com/michael-montana/michael-montana/blob/main/assets/participation_certificates/defender-for-cloud-ninja-certificate.pdf) |
 
