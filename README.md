@@ -25,6 +25,24 @@
 | 🗄️ Data & DB | [PostgreSQL Migration](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/1777A67EFBB0C742?sharingId=F0D1943B5C490F4C) · [SQL Server → Azure SQL](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/FB323E017AC0F08B?sharingId=F0D1943B5C490F4C) · [Active Directory DS](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/F49502B488411620?sharingId=F0D1943B5C490F4C) |
 | 🤖 AI & Dev | [Azure OpenAI + Semantic Kernel](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/5B6404DDF52AC50?sharingId=F0D1943B5C490F4C) · [AI Document Intelligence](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/8B1664782BB97A60?sharingId=F0D1943B5C490F4C) · [NLP with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/DB627A931F14F20?sharingId=F0D1943B5C490F4C) |
 
+## 🕵️ Kusto Detective Agency
+
+![KQL](https://img.shields.io/badge/Microsoft_Azure_Data_Explorer-3%20KQL_Challenges-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+| Badge | Achievement |
+|-------|-------------|
+| 🥇 Gold | [Kusto Detective Gold Star!](https://www.credly.com/badges/e15bbbcf-74fd-428f-9d7c-edbd21c2843b) · Season 2 Gold Award |
+| 🏆 Complete | [Kusto Detective Agency – Complete](https://www.credly.com/badges/20e49480-341e-4d1e-b24f-2c1476670363) · The ultimate Kusto detective badge |
+| 🔐 Cyber Duty | [Call of the Cyber Duty – Case 10](https://www.credly.com/badges/09ee2a45-8b7b-4d06-83dc-492415dd8c33) · Final case solved |
+
+## 🥷 Microsoft Defender Ninja Program
+
+![Microsoft Defender Ninja](https://img.shields.io/badge/Microsoft_Defender-1%20Ninja%20Certificates-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+| Program | Certificate |
+|---------|-------------|
+| 🌩️ Microsoft Defender for Cloud | [Defender for Cloud Ninja Participation Certificate](https://github.com/michael-montana/michael-montana/blob/main/assets/participation_certificates/defender-for-cloud-ninja-certificate.pdf) |
+
 ## 🔓 TryHackMe
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-2_Certificates_of_completion-212C42?style=flat&logo=tryhackme&logoColor=white)
@@ -32,14 +50,3 @@
 | Category | Certificate of completion |
 |----------|-------------|
 | 🛡️ Foundations | [Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YPXEUKOWBD.pdf) · [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BIMDHOLOQP.pdf) |
-
-
-## 🕵️ Kusto Detective Agency
-
-![KQL](https://img.shields.io/badge/Microsoft_Azure_Data_Explorer-KQL_Challenges-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-| Badge | Achievement |
-|-------|-------------|
-| 🥇 Gold | [Kusto Detective Gold Star!](https://www.credly.com/badges/e15bbbcf-74fd-428f-9d7c-edbd21c2843b) · Season 2 Gold Award |
-| 🏆 Complete | [Kusto Detective Agency – Complete](https://www.credly.com/badges/20e49480-341e-4d1e-b24f-2c1476670363) · The ultimate Kusto detective badge |
-| 🔐 Cyber Duty | [Call of the Cyber Duty – Case 10](https://www.credly.com/badges/09ee2a45-8b7b-4d06-83dc-492415dd8c33) · Final case solved |
