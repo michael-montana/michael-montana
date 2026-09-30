@@ -16,7 +16,7 @@
 
 ![Microsoft Applied Skills](https://learn.microsoft.com/en-us/media/learn/credential/badges/applied-skill.svg)
 
-![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft_Applied_Skills-14_Earned-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Microsoft Applied Skills](https://img.shields.io/badge/Microsoft_Applied_Skills-16_Earned-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 | Category | Certificate |
 |----------|--------|
