@@ -35,13 +35,14 @@
 | 🏆 Complete | [Kusto Detective Agency – Complete](https://www.credly.com/badges/20e49480-341e-4d1e-b24f-2c1476670363) · The ultimate Kusto detective badge |
 | 🔐 Cyber Duty | [Call of the Cyber Duty – Case 10](https://www.credly.com/badges/09ee2a45-8b7b-4d06-83dc-492415dd8c33) · Final case solved |
 
-## 🥷 Microsoft Defender Ninja Program
+## 🛡️ Microsoft Cybersecurity
 
-![Microsoft Defender Ninja](https://img.shields.io/badge/Microsoft_Defender-1%20Ninja%20Certificates%20of%20completion-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Microsoft Cybersecurity](https://img.shields.io/badge/Microsoft_Cybersecurity-2_Credentials-0078D4?style=flat&logo=microsoft&logoColor=white)
 
-| Program | Certificate of completion |
-|---------|-------------|
-| 🌩️ Microsoft Defender for Cloud | [Defender for Cloud Ninja Participation Certificate](https://github.com/michael-montana/michael-montana/blob/main/assets/participation_certificates/defender-for-cloud-ninja-certificate.pdf) |
+| Program | Certificate / Badge |
+|---------|---------------------|
+| 🧠 Cyber Genius Program | [Cyber Genius 1.0 Badge](https://www.credly.com/badges/862392e5-3a34-4a31-ba16-23332927f042/public_url) · Threat detection, incident response, AI security & information protection |
+| 🥷 Defender Ninja Program | [Defender for Cloud Ninja Participation Certificate](https://github.com/michael-montana/michael-montana/blob/main/assets/participation_certificates/defender-for-cloud-ninja-certificate.pdf) · Microsoft Defender for Cloud |
 
 ## 🔓 TryHackMe
 
