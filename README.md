@@ -25,6 +25,14 @@
 | 🗄️ Data & DB | [PostgreSQL Migration](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/1777A67EFBB0C742?sharingId=F0D1943B5C490F4C) · [SQL Server → Azure SQL](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/FB323E017AC0F08B?sharingId=F0D1943B5C490F4C) · [Active Directory DS](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/F49502B488411620?sharingId=F0D1943B5C490F4C) |
 | 🤖 AI & Dev | [Azure OpenAI + Semantic Kernel](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/5B6404DDF52AC50?sharingId=F0D1943B5C490F4C) · [AI Document Intelligence](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/8B1664782BB97A60?sharingId=F0D1943B5C490F4C) · [NLP with Azure AI Language](https://learn.microsoft.com/api/credentials/share/en-us/MichaelMontana-9938/DB627A931F14F20?sharingId=F0D1943B5C490F4C) |
 
+## 🚀 Microsoft Pro Badges
+
+![Microsoft Pro Badges](https://img.shields.io/badge/Microsoft_Pro_Badges-1_Earned-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+| Technology | Proficiency Badge |
+|------------|-------------------|
+| 🤖 GitHub Copilot | [Microsoft Pro Badge: GitHub Copilot – Proficient](https://www.credly.com/badges/432cbaf5-8883-4820-ab33-895c70f5792c/public_url) · Verified proficiency through real-world GitHub Copilot usage |
+
 ## 🕵️ Kusto Detective Agency
 
 ![KQL](https://img.shields.io/badge/Microsoft_Azure_Data_Explorer-3%20KQL_Challenges-0078D4?style=flat&logo=microsoftazure&logoColor=white)
